@@ -19,7 +19,7 @@
             "step": 8,
             "angle": 0,
             "cy": "top",
-            "easing": "easeOutQuint"
+            "easing": "easeInQuint"
           }
         ]
 
