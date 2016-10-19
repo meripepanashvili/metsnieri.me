@@ -673,7 +673,9 @@
       var backpack = new svgAnimation({
     canvas: new Snap('#canvas'),
     svg: 'https://raw.githubusercontent.com/meripepanashvili/metsnieri.me/master/small-physics.svg',
-    data: 'https://raw.githubusercontent.com/meripepanashvili/metsnieri.me/master/newton.json'
+    data: 'https://raw.githubusercontent.com/meripepanashvili/metsnieri.me/master/newton.json',
+    duration: 10000,
+    steps: 10
   });
   }, 500);
 })();
