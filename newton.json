@@ -13,6 +13,7 @@
             "step": 4,
             "angle": 20,
             "cy": "top"
+            "easing": "easeOutQuint"
           },
           {
             "step": 8,
