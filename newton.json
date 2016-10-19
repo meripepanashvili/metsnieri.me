@@ -8,18 +8,6 @@
             "step": 4,
             "angle": 45,
             "cy": "top"
-          },
-
-          {
-            "step": 6,
-            "angle": -45,
-            "easing": "easeOutBack"
-          },
-
-          {
-            "step": 8,
-            "angle": 30,
-            "easing": "easeOutQuint"
           }
         ]
 
