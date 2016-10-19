@@ -16,17 +16,6 @@
             "easing": "easeOutBack"
           },
 
-          {
-            "step": 8,
-            "angle": 30,
-            "easing": "easeOutQuint"
-          },
-
-          {
-            "step": 10,
-            "angle": 0,
-            "easing": "easeOutBack"
-          }
         ]
 
 
