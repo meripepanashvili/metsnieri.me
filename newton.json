@@ -16,49 +16,10 @@
             "y": 0,
             "easing": "easeOutQuint"
           }
-        ],
-
-        "rotateKeyframes": [
-          {
-            "step": 4,
-            "angle": 45,
-            "cy": "top"
-          },
-
-          {
-            "step": 6,
-            "angle": -45,
-            "easing": "easeOutBack"
-          },
-
-          {
-            "step": 8,
-            "angle": 30,
-            "easing": "easeOutQuint"
-          },
-
-          {
-            "step": 10,
-            "angle": 0,
-            "easing": "easeOutBack"
-          }
-        ],
-
-        "scaleKeyframes": [
-          {
-            "step": 4,
-            "x": 0,
-            "y": 0,
-            "cy": "top"
-          },
-
-          {
-            "step": 6,
-            "x": 1,
-            "y": 1,
-            "easing": "easeOutBack"
-          }
         ]
+
+
+       
       }
     }
  
