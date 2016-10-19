@@ -5,8 +5,18 @@
       "keyframes": {
          "rotateKeyframes": [
           {
+            "step": 0,
+            "angle": 45,
+            "cy": "top"
+          }
+          {
             "step": 4,
             "angle": 45,
+            "cy": "top"
+          }
+          {
+            "step": 8,
+            "angle": 0,
             "cy": "top"
           }
         ]
